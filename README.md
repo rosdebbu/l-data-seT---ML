@@ -4,6 +4,7 @@ A machine learning project using soil & climate data to recommend optimal crops 
 
 [![Open Tutorial 1 In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rosdebbu/l-data-seT---ML/blob/main/Tutorial_1_Data_Preprocessing.ipynb)
 [![Open Tutorial 2 In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rosdebbu/l-data-seT---ML/blob/main/Tutorial_2_Linear_Regression.ipynb)
+[![Open Tutorial 3 In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rosdebbu/l-data-seT---ML/blob/main/Tutorial_3_Cross_Validation.ipynb)
 
 ---
 
@@ -12,11 +13,12 @@ A machine learning project using soil & climate data to recommend optimal crops 
 ### Method A: Direct Colab Links (Fastest)
 - 👉 **[Open Tutorial 1 (Data Preprocessing) in Colab](https://colab.research.google.com/github/rosdebbu/l-data-seT---ML/blob/main/Tutorial_1_Data_Preprocessing.ipynb)**
 - 👉 **[Open Tutorial 2 (Linear Regression) in Colab](https://colab.research.google.com/github/rosdebbu/l-data-seT---ML/blob/main/Tutorial_2_Linear_Regression.ipynb)**
+- 👉 **[Open Tutorial 3 (Cross-Validation) in Colab](https://colab.research.google.com/github/rosdebbu/l-data-seT---ML/blob/main/Tutorial_3_Cross_Validation.ipynb)**
 
 ### Method B: Upload `.ipynb` File
 1. Open [Google Colab](https://colab.research.google.com/).
 2. Select **Upload** tab.
-3. Drag and drop [Tutorial_1_Data_Preprocessing.ipynb](file:///c:/Users/ROSHNI/OneDrive/Documents/GitHub/l-data-seT---ML/Tutorial_1_Data_Preprocessing.ipynb) or [Tutorial_2_Linear_Regression.ipynb](file:///c:/Users/ROSHNI/OneDrive/Documents/GitHub/l-data-seT---ML/Tutorial_2_Linear_Regression.ipynb).
+3. Drag and drop any `.ipynb` file from this folder.
 4. Click **Runtime → Run all**.
 
 ---
@@ -27,6 +29,7 @@ A machine learning project using soil & climate data to recommend optimal crops 
 |------|-------------|
 | **[Tutorial_1_Data_Preprocessing.ipynb](file:///c:/Users/ROSHNI/OneDrive/Documents/GitHub/l-data-seT---ML/Tutorial_1_Data_Preprocessing.ipynb)** | **Tutorial 1 (T1)** Data Preprocessing notebook |
 | **[Tutorial_2_Linear_Regression.ipynb](file:///c:/Users/ROSHNI/OneDrive/Documents/GitHub/l-data-seT---ML/Tutorial_2_Linear_Regression.ipynb)** | **Tutorial 2 (T2)** Linear Regression & Regularization notebook |
+| **[Tutorial_3_Cross_Validation.ipynb](file:///c:/Users/ROSHNI/OneDrive/Documents/GitHub/l-data-seT---ML/Tutorial_3_Cross_Validation.ipynb)** | **Tutorial 3 (T3)** Cross-Validation & Learning Curves notebook |
 | **`tutorial_1_preprocessing.py`** | Tutorial 1 Python script |
 | **`tutorial_2_linear_regression.py`** | Tutorial 2 Linear Regression script |
 | **`tutorial_3_cross_validation.py`** | Tutorial 3 Cross-Validation script |
